@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/my-project/v16/.suo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
